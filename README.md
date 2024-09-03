@@ -1,22 +1,21 @@
-
-# Books List
+# 📚 Books List
 
 A simple ReactJS project for managing a list of books. You can add, delete, and edit books. This project uses JSON Server for data persistence.
 
-## Features
+## 🌟 Features
 
-- Add a book to the list
-- Delete a book from the list
-- Edit a specific book in the list
+- ➕ **Add** a book to the list
+- ❌ **Delete** a book from the list
+- ✏️ **Edit** a specific book in the list
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 🛠️ Prerequisites
 
-- Node.js (v14 or later)
-- npm (v6 or later)
+- 🟢 **Node.js** (v14 or later)
+- 🟢 **npm** (v6 or later)
 
-### Installation
+### 💻 Installation
 
 1. Clone the repository:
     ```sh
@@ -41,26 +40,26 @@ A simple ReactJS project for managing a list of books. You can add, delete, and 
     ```
     The application will run on [http://localhost:3000](http://localhost:3000).
 
-### Usage
+### 📖 Usage
 
 1. Open [http://localhost:3000](http://localhost:3000) in your browser.
-2. You can add a new book using the input form.
-3. You can delete a book by clicking the "Delete" button next to it.
-4. You can edit a book by clicking the "Edit" button next to it and updating the information.
+2. You can **add** a new book using the input form.
+3. You can **delete** a book by clicking the "Delete" button next to it.
+4. You can **edit** a book by clicking the "Edit" button next to it and updating the information.
 
-## Project Structure
+## 🗂️ Project Structure
 
-- `public/` - Static assets
-- `src/` - Source code
-  - `components/` - React components
-  - `contexts/` - React Context for Books
-  - `hooks/` - React Custom Hooks
-  - `App.js` - Main application component
-  - `index.js` - Entry point for the React application
-  - `index.css` - Entry Point CSS styling
-- `db.json` - JSON Server database
+- `public/` - 📁 Static assets
+- `src/` - 📁 Source code
+  - `components/` - 📦 React components
+  - `contexts/` - 📦 React Context for Books
+  - `hooks/` - 📦 React Custom Hooks
+  - `App.js` - 🗂️ Main application component
+  - `index.js` - 🗂️ Entry point for the React application
+  - `index.css` - 🎨 Entry Point CSS styling
+- `db.json` - 📄 JSON Server database
 
-## Scripts
+## 🛠️ Scripts
 
 - `npm start` - Starts the React application
 - `npm run server` - Starts the JSON Server
